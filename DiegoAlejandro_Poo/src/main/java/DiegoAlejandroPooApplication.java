@@ -1,5 +1,3 @@
-package DiegoAlejandro_Poo.DiegoAlejandro_Poo;
-
 import io.github.cdimascio.dotenv.Dotenv;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
